@@ -1,0 +1,28 @@
+{
+  "name": "vulpejs-uploader",
+  "version": "0.0.1",
+  "dependencies": {
+    "blueimp-file-upload-expressjs": "~0.4.4"
+  },
+  "description": "VulpeJS Uploader is a Open-Source plugin to VulpeJS",
+  "main": "./lib/vulpe-uploader.js",
+  "scripts": {
+    "test": "echo \"no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lordfelipe/vulpejs-uploader.git"
+  },
+  "keywords": [
+    "vulpe",
+    "vulpejs",
+    "uploader",
+    "expressjs"
+  ],
+  "author": "Geraldo Felipe <lordfelipe@gmail.com> (http://www.vulpe.org)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lordfelipe/vulpejs-uploader/issues"
+  },
+  "homepage": "https://github.com/lordfelipe/vulpejs-uploader"
+}
